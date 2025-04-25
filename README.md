@@ -1,5 +1,7 @@
 # 📰 TechNews - Portal de Notícias de Tecnologia
 
+![Página Principal do Site](https://github.com/cesar-severo-programador/TechNews/blob/main/assets/screenshots/principal%20do%20site.jpg)
+
 **TechNews** é um portal fictício de notícias focado em inovações tecnológicas, criado com **HTML** e **CSS puro**. O objetivo principal desse projeto é revisar e reforçar conceitos fundamentais do desenvolvimento web. 
 
 > 🚧 O site ainda **não é responsivo**, pois a proposta é focar no aprendizado e na estruturação inicial de um layout web.
@@ -38,18 +40,36 @@ TechNews/ │ ├── index.html ├── assets/ │ ├── Ads.png │ �
 
 ## 🖼️ Imagens do Projeto
 
-> Adicione aqui prints da tela inicial, seção de destaques e outras áreas do portal.  
-> Você pode usar o GitHub para hospedar imagens ou arrastar e soltar diretamente neste README no editor online.
+### 🧭 Visão Geral
 
-### 📸 Screenshot - Página Inicial
-
-![Screenshot da página inicial](CAMINHO_DA_IMAGEM)
-
-### 📸 Screenshot - Destaques da Semana
-
-![Screenshot das matérias em destaque](CAMINHO_DA_IMAGEM)
+Abaixo estão alguns prints que mostram a estrutura visual do portal **TechNews**.
 
 ---
+
+### 📸 Página Principal
+
+![Página Principal do Site](https://github.com/cesar-severo-programador/TechNews/blob/main/assets/screenshots/01.png)
+
+---
+
+### 🧩 Seções do Site
+
+#### 🔹 Mais lidas da semana
+
+![Mais lidas](https://github.com/cesar-severo-programador/TechNews/blob/main/assets/screenshots/02.png)
+
+#### 🔹 Destaques de Inteligência Artificial
+
+![IA](https://github.com/cesar-severo-programador/TechNews/blob/main/assets/screenshots/03.png)
+
+---
+
+### 🖥️ Site Completo em Scroll Único
+
+Essa imagem mostra o site em um único scroll vertical (ideal para ter uma ideia geral do layout completo):
+
+![Site Completo](https://github.com/cesar-severo-programador/TechNews/blob/main/assets/screenshots/04.png)
+
 
 ## 📌 Observações
 
